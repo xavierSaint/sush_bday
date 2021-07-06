@@ -2048,7 +2048,7 @@ font-family: 'Lobster', cursive;
 .polaroid img,
 .polaroid .img {
   width: 100%;
-  height: 200%;
+  height: 100%;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   background-position: center;
